@@ -38,7 +38,9 @@ input:focus, button:focus {
     text-decoration: underline;
 }
 button {
-    border: 1px solid yellow;
+    border: none;
+    color: orange;
+    background-color: yellow;
     font-size: 28px;
     border-radius: 5px;
 }
